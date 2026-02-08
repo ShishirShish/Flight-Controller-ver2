@@ -1,0 +1,304 @@
+Importer Log Report
+Document: E:\PCB DESIGNS\Flight Controller Adv ver\Flight Controller 2.kicad_sch
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\Flight Controller 2.kicad_sch
+        Warning: Unknown child generator_version of kicad_sch.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child embedded_fonts of kicad_sch.
+        Event: Loading sub-sheet: FCC.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch'
+        Event: Error while loading sub-sheet: FCC.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: NAVCPeripherals.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch'
+        Event: Error while loading sub-sheet: NAVCPeripherals.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: Connections.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch'
+        Event: Error while loading sub-sheet: Connections.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: FCCPeripherals.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch'
+        Event: Error while loading sub-sheet: FCCPeripherals.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: NAVC.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch'
+        Event: Error while loading sub-sheet: NAVC.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\Flight Controller 2.kicad_sch
+        Warning: Unknown child generator_version of kicad_sch.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child hide of pin.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child embedded_fonts of symbol.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of text.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of symbol.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child exclude_from_sim of sheet.
+        Warning: Unknown child in_bom of sheet.
+        Warning: Unknown child on_board of sheet.
+        Warning: Unknown child dnp of sheet.
+        Warning: Unknown child embedded_fonts of kicad_sch.
+        Event: Loading sub-sheet: FCC.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\FCC.sch'
+        Event: Error while loading sub-sheet: FCC.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: NAVCPeripherals.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\NAVCPeripherals.sch'
+        Event: Error while loading sub-sheet: NAVCPeripherals.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: Connections.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\Connections.sch'
+        Event: Error while loading sub-sheet: Connections.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: FCCPeripherals.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\FCCPeripherals.sch'
+        Event: Error while loading sub-sheet: FCCPeripherals.sch of Flight Controller 2.kicad_sch.
+        Event: Loading sub-sheet: NAVC.sch of Flight Controller 2.kicad_sch.
+    EndSection
+    Section : Loading Schematic - E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch
+        Error: Document E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch doesn't exists
+        Error: Can't read KiCad schematc 'Flight Controller 2.kicad_sch' sub-sheet file 'E:\PCB DESIGNS\Flight Controller Adv ver\NAVC.sch'
+        Event: Error while loading sub-sheet: NAVC.sch of Flight Controller 2.kicad_sch.
+    EndSection

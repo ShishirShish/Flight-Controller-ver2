@@ -1,0 +1,669 @@
+Importer Log Report
+Document: C:\Users\shish\Downloads\HadesFCS-master\HadesFCS-master\Hardware\Hades\lib
+    Section : Import Document - E:\PCB DESIGNS\Flight Controller Adv ver\Imported Connections\lib.PcbLib
+        Event: Component Y** was not imported.
+        Event: Component IC** was successfully imported.
+        Event: Component S** was not imported.
+        Event: Component IC** was successfully imported.
+        Event: Component IC** was successfully imported.
+        Event: Component IC** was successfully imported.
+        Event: Component IC** was successfully imported.
+        Event: Component IC** was successfully imported.
+        Event: Component S** was successfully imported.
+        Event: Component L** was successfully imported.
+        Event: Component IC** was not imported.
+        Event: Component H** was not imported.
+        Event: Component S** was successfully imported.
+        Event: Component Y** was successfully imported.
+        Event: Component IC** was not imported.
+        Event: Component L** was successfully imported.
+        Event: Component L** was successfully imported.
+        Event: Component IC** was successfully imported.
+        Event: Component IC** was not imported.
+        Event: Component IC** was successfully imported.
+        Event: Component S** was not imported.
+        Event: Component S** was successfully imported.
+        Section : Component Y** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-1.25,0] was successfully imported.
+            Event: Pad 2 on [1.25,0] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-5.75,3.75] was successfully imported.
+            Event: Pad 2 on [-5.75,3.25] was successfully imported.
+            Event: Pad 3 on [-5.75,2.75] was successfully imported.
+            Event: Pad 4 on [-5.75,2.25] was successfully imported.
+            Event: Pad 5 on [-5.75,1.75] was successfully imported.
+            Event: Pad 6 on [-5.75,1.25] was successfully imported.
+            Event: Pad 7 on [-5.75,0.75] was successfully imported.
+            Event: Pad 8 on [-5.75,0.25] was successfully imported.
+            Event: Pad 9 on [-5.75,-0.25] was successfully imported.
+            Event: Pad 10 on [-5.75,-0.75] was successfully imported.
+            Event: Pad 11 on [-5.75,-1.25] was successfully imported.
+            Event: Pad 12 on [-5.75,-1.75] was successfully imported.
+            Event: Pad 13 on [-5.75,-2.25] was successfully imported.
+            Event: Pad 14 on [-5.75,-2.75] was successfully imported.
+            Event: Pad 15 on [-5.75,-3.25] was successfully imported.
+            Event: Pad 16 on [-5.75,-3.75] was successfully imported.
+            Event: Pad 17 on [-3.75,-5.75] was successfully imported.
+            Event: Pad 18 on [-3.25,-5.75] was successfully imported.
+            Event: Pad 19 on [-2.75,-5.75] was successfully imported.
+            Event: Pad 20 on [-2.25,-5.75] was successfully imported.
+            Event: Pad 21 on [-1.75,-5.75] was successfully imported.
+            Event: Pad 22 on [-1.25,-5.75] was successfully imported.
+            Event: Pad 23 on [-0.75,-5.75] was successfully imported.
+            Event: Pad 24 on [-0.25,-5.75] was successfully imported.
+            Event: Pad 25 on [0.25,-5.75] was successfully imported.
+            Event: Pad 26 on [0.75,-5.75] was successfully imported.
+            Event: Pad 27 on [1.25,-5.75] was successfully imported.
+            Event: Pad 28 on [1.75,-5.75] was successfully imported.
+            Event: Pad 29 on [2.25,-5.75] was successfully imported.
+            Event: Pad 30 on [2.75,-5.75] was successfully imported.
+            Event: Pad 31 on [3.25,-5.75] was successfully imported.
+            Event: Pad 32 on [3.75,-5.75] was successfully imported.
+            Event: Pad 33 on [5.75,-3.75] was successfully imported.
+            Event: Pad 34 on [5.75,-3.25] was successfully imported.
+            Event: Pad 35 on [5.75,-2.75] was successfully imported.
+            Event: Pad 36 on [5.75,-2.25] was successfully imported.
+            Event: Pad 37 on [5.75,-1.75] was successfully imported.
+            Event: Pad 38 on [5.75,-1.25] was successfully imported.
+            Event: Pad 39 on [5.75,-0.75] was successfully imported.
+            Event: Pad 40 on [5.75,-0.25] was successfully imported.
+            Event: Pad 41 on [5.75,0.25] was successfully imported.
+            Event: Pad 42 on [5.75,0.75] was successfully imported.
+            Event: Pad 43 on [5.75,1.25] was successfully imported.
+            Event: Pad 44 on [5.75,1.75] was successfully imported.
+            Event: Pad 45 on [5.75,2.25] was successfully imported.
+            Event: Pad 46 on [5.75,2.75] was successfully imported.
+            Event: Pad 47 on [5.75,3.25] was successfully imported.
+            Event: Pad 48 on [5.75,3.75] was successfully imported.
+            Event: Pad 49 on [3.75,5.75] was successfully imported.
+            Event: Pad 50 on [3.25,5.75] was successfully imported.
+            Event: Pad 51 on [2.75,5.75] was successfully imported.
+            Event: Pad 52 on [2.25,5.75] was successfully imported.
+            Event: Pad 53 on [1.75,5.75] was successfully imported.
+            Event: Pad 54 on [1.25,5.75] was successfully imported.
+            Event: Pad 55 on [0.75,5.75] was successfully imported.
+            Event: Pad 56 on [0.25,5.75] was successfully imported.
+            Event: Pad 57 on [-0.25,5.75] was successfully imported.
+            Event: Pad 58 on [-0.75,5.75] was successfully imported.
+            Event: Pad 59 on [-1.25,5.75] was successfully imported.
+            Event: Pad 60 on [-1.75,5.75] was successfully imported.
+            Event: Pad 61 on [-2.25,5.75] was successfully imported.
+            Event: Pad 62 on [-2.75,5.75] was successfully imported.
+            Event: Pad 63 on [-3.25,5.75] was successfully imported.
+            Event: Pad 64 on [-3.75,5.75] was successfully imported.
+        EndSection
+        Section : Component S** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-1.95,1.075] was successfully imported.
+            Event: Pad 2 on [2.2,1.075] was successfully imported.
+            Event: Pad 3 on [-1.95,-1.075] was successfully imported.
+            Event: Pad 4 on [2.2,-1.075] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-4.725,4.445] was successfully imported.
+            Event: Pad 2 on [-4.725,3.175] was successfully imported.
+            Event: Pad 3 on [-4.725,1.905] was successfully imported.
+            Event: Pad 4 on [-4.725,0.635] was successfully imported.
+            Event: Pad 5 on [-4.725,-0.635] was successfully imported.
+            Event: Pad 6 on [-4.725,-1.905] was successfully imported.
+            Event: Pad 7 on [-4.725,-3.175] was successfully imported.
+            Event: Pad 8 on [-4.725,-4.445] was successfully imported.
+            Event: Pad 9 on [4.725,-4.445] was successfully imported.
+            Event: Pad 10 on [4.725,-3.175] was successfully imported.
+            Event: Pad 11 on [4.725,-1.905] was successfully imported.
+            Event: Pad 12 on [4.725,-0.635] was successfully imported.
+            Event: Pad 13 on [4.725,0.635] was successfully imported.
+            Event: Pad 14 on [4.725,1.905] was successfully imported.
+            Event: Pad 15 on [4.725,3.175] was successfully imported.
+            Event: Pad 16 on [4.725,4.445] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-1.5,0.95] was successfully imported.
+            Event: Pad 2 on [-1.5,-0] was successfully imported.
+            Event: Pad 3 on [-1.5,-0.95] was successfully imported.
+            Event: Pad 4 on [1.5,-0.95] was successfully imported.
+            Event: Pad 5 on [1.5,-0] was successfully imported.
+            Event: Pad 6 on [1.5,0.95] was successfully imported.
+            Event: Pad 7 on [0,-0] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-4.5,4.4] was successfully imported.
+            Event: Pad 2 on [-4.5,3.3] was successfully imported.
+            Event: Pad 3 on [-4.5,2.2] was successfully imported.
+            Event: Pad 4 on [-4.5,1.1] was successfully imported.
+            Event: Pad 5 on [-4.5,-0] was successfully imported.
+            Event: Pad 6 on [-4.5,-1.1] was successfully imported.
+            Event: Pad 7 on [-4.5,-2.2] was successfully imported.
+            Event: Pad 8 on [-4.5,-3.3] was successfully imported.
+            Event: Pad 9 on [-4.5,-4.4] was successfully imported.
+            Event: Pad 10 on [4.5,-4.4] was successfully imported.
+            Event: Pad 11 on [4.5,-3.3] was successfully imported.
+            Event: Pad 12 on [4.5,-2.2] was successfully imported.
+            Event: Pad 13 on [4.5,-1.1] was successfully imported.
+            Event: Pad 14 on [4.5,-0] was successfully imported.
+            Event: Pad 15 on [4.5,1.1] was successfully imported.
+            Event: Pad 16 on [4.5,2.2] was successfully imported.
+            Event: Pad 17 on [4.5,3.3] was successfully imported.
+            Event: Pad 18 on [4.5,4.4] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-3.9,1.905] was successfully imported.
+            Event: Pad 2 on [-3.9,0.635] was successfully imported.
+            Event: Pad 3 on [-3.9,-0.635] was successfully imported.
+            Event: Pad 4 on [-3.9,-1.905] was successfully imported.
+            Event: Pad 5 on [3.9,-1.905] was successfully imported.
+            Event: Pad 6 on [3.9,-0.635] was successfully imported.
+            Event: Pad 7 on [3.9,0.635] was successfully imported.
+            Event: Pad 8 on [3.9,1.905] was successfully imported.
+            Event: Pad 9 on [0,-0] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-1.25,0.95] was successfully imported.
+            Event: Pad 2 on [-1.25,-0] was successfully imported.
+            Event: Pad 3 on [-1.25,-0.95] was successfully imported.
+            Event: Pad 4 on [1.25,-0.95] was successfully imported.
+            Event: Pad 5 on [1.25,0.95] was successfully imported.
+        EndSection
+        Section : Component S** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-2,1.75] was successfully imported.
+            Event: Pad 2 on [-2,-1.75] was successfully imported.
+            Event: Pad 3 on [2,-0] was successfully imported.
+        EndSection
+        Section : Component L** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [0,2.025] was successfully imported.
+            Event: Pad 2 on [0,-2.025] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-6.553,13.75] was successfully imported.
+            Event: Pad 2 on [-6.553,12.5] was successfully imported.
+            Event: Pad 3 on [-6.553,11.25] was successfully imported.
+            Event: Pad 4 on [-6.553,10] was successfully imported.
+            Event: Pad 5 on [-6.553,8.75] was successfully imported.
+            Event: Pad 6 on [-6.553,7.5] was successfully imported.
+            Event: Pad 7 on [-6.553,6.25] was successfully imported.
+            Event: Pad 8 on [-6.553,5] was successfully imported.
+            Event: Pad 9 on [-6.553,3.75] was successfully imported.
+            Event: Pad 10 on [-6.553,2.5] was successfully imported.
+            Event: Pad 11 on [-6.553,1.25] was successfully imported.
+            Event: Pad 12 on [-6.553,-0] was successfully imported.
+            Event: Pad 13 on [-4.375,-1.537] was successfully imported.
+            Event: Pad 14 on [-3.125,-1.537] was successfully imported.
+            Event: Pad 15 on [-1.875,-1.537] was successfully imported.
+            Event: Pad 16 on [-0.625,-1.537] was successfully imported.
+            Event: Pad 17 on [0.625,-1.537] was successfully imported.
+            Event: Pad 18 on [1.875,-1.537] was successfully imported.
+            Event: Pad 19 on [3.125,-1.537] was successfully imported.
+            Event: Pad 20 on [4.375,-1.537] was successfully imported.
+            Event: Pad 21 on [6.553,-0] was successfully imported.
+            Event: Pad 22 on [6.553,1.25] was successfully imported.
+            Event: Pad 23 on [6.553,2.5] was successfully imported.
+            Event: Pad 24 on [6.553,3.75] was successfully imported.
+            Event: Pad 25 on [6.553,5] was successfully imported.
+            Event: Pad 26 on [6.553,6.25] was successfully imported.
+            Event: Pad 27 on [6.553,7.5] was successfully imported.
+            Event: Pad 28 on [6.553,8.75] was successfully imported.
+            Event: Pad 29 on [6.553,10] was successfully imported.
+            Event: Pad 30 on [6.553,11.25] was successfully imported.
+            Event: Pad 31 on [6.553,12.5] was successfully imported.
+            Event: Pad 32 on [6.553,13.75] was successfully imported.
+            Event: Pad 33 on [6.553,15] was successfully imported.
+            Event: Pad 34 on [6.553,16.25] was successfully imported.
+        EndSection
+        Section : Component H** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-7.62,0] was successfully imported.
+            Event: Pad 2 on [7.62,0] was successfully imported.
+            Event: Pad MP1 on [0,0] was successfully imported.
+        EndSection
+        Section : Component S** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [0,-4.45] was successfully imported.
+            Event: Pad 2 on [0,4.45] was successfully imported.
+        EndSection
+        Section : Component Y** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-1.15,-0.925] was successfully imported.
+            Event: Pad 2 on [1.15,-0.925] was successfully imported.
+            Event: Pad 3 on [1.15,0.925] was successfully imported.
+            Event: Pad 4 on [-1.15,0.925] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-0.75,0.75] was successfully imported.
+            Event: Pad 2 on [-0.75,0.25] was successfully imported.
+            Event: Pad 3 on [-0.75,-0.25] was successfully imported.
+            Event: Pad 4 on [-0.75,-0.75] was successfully imported.
+            Event: Pad 5 on [-0.25,-0.75] was successfully imported.
+            Event: Pad 6 on [0.25,-0.75] was successfully imported.
+            Event: Pad 7 on [0.75,-0.75] was successfully imported.
+            Event: Pad 8 on [0.75,-0.25] was successfully imported.
+            Event: Pad 9 on [0.75,0.25] was successfully imported.
+            Event: Pad 10 on [0.75,0.75] was successfully imported.
+            Event: Pad 11 on [0.25,0.75] was successfully imported.
+            Event: Pad 12 on [-0.25,0.75] was successfully imported.
+        EndSection
+        Section : Component L** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-3.4,-0] was successfully imported.
+            Event: Pad 2 on [3.4,-0] was successfully imported.
+        EndSection
+        Section : Component L** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-5.5,-0] was successfully imported.
+            Event: Pad 2 on [5.5,-0] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-2.4,2.275] was successfully imported.
+            Event: Pad 2 on [-2.4,1.625] was successfully imported.
+            Event: Pad 3 on [-2.4,0.975] was successfully imported.
+            Event: Pad 4 on [-2.4,0.325] was successfully imported.
+            Event: Pad 5 on [-2.4,-0.325] was successfully imported.
+            Event: Pad 6 on [-2.4,-0.975] was successfully imported.
+            Event: Pad 7 on [-2.4,-1.625] was successfully imported.
+            Event: Pad 8 on [-2.4,-2.275] was successfully imported.
+            Event: Pad 9 on [-1.625,-2.9] was successfully imported.
+            Event: Pad 10 on [-0.975,-2.9] was successfully imported.
+            Event: Pad 11 on [-0.325,-2.9] was successfully imported.
+            Event: Pad 12 on [0.325,-2.9] was successfully imported.
+            Event: Pad 13 on [0.975,-2.9] was successfully imported.
+            Event: Pad 14 on [1.625,-2.9] was successfully imported.
+            Event: Pad 15 on [2.4,-2.275] was successfully imported.
+            Event: Pad 16 on [2.4,-1.625] was successfully imported.
+            Event: Pad 17 on [2.4,-0.975] was successfully imported.
+            Event: Pad 18 on [2.4,-0.325] was successfully imported.
+            Event: Pad 19 on [2.4,0.325] was successfully imported.
+            Event: Pad 20 on [2.4,0.975] was successfully imported.
+            Event: Pad 21 on [2.4,1.625] was successfully imported.
+            Event: Pad 22 on [2.4,2.275] was successfully imported.
+            Event: Pad 23 on [1.625,2.9] was successfully imported.
+            Event: Pad 24 on [0.975,2.9] was successfully imported.
+            Event: Pad 25 on [0.325,2.9] was successfully imported.
+            Event: Pad 26 on [-0.325,2.9] was successfully imported.
+            Event: Pad 27 on [-0.975,2.9] was successfully imported.
+            Event: Pad 28 on [-1.625,2.9] was successfully imported.
+            Event: Pad 29 on [-0.5,-1.015] was successfully imported.
+            Event: Pad 30 on [1.4,-1.015] was successfully imported.
+            Event: Pad 31 on [0,1.55] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-0.55,0.5] was successfully imported.
+            Event: Pad 2 on [-0.55,-0.5] was successfully imported.
+            Event: Pad 3 on [-0.75,-1.45] was successfully imported.
+            Event: Pad 4 on [-0.25,-1.45] was successfully imported.
+            Event: Pad 5 on [0.25,-1.45] was successfully imported.
+            Event: Pad 6 on [0.75,-1.45] was successfully imported.
+            Event: Pad 7 on [0.55,0] was successfully imported.
+            Event: Pad 8 on [0.95,0.5] was successfully imported.
+            Event: Pad 9 on [0.75,1.45] was successfully imported.
+            Event: Pad 10 on [0.25,1.45] was successfully imported.
+            Event: Pad 11 on [-0.25,1.45] was successfully imported.
+            Event: Pad 12 on [-0.75,1.45] was successfully imported.
+        EndSection
+        Section : Component IC** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Rect was successfully imported.
+            Event: Pad 1 on [-2.3,1.75] was successfully imported.
+            Event: Pad 2 on [-2.3,1.25] was successfully imported.
+            Event: Pad 3 on [-2.3,0.75] was successfully imported.
+            Event: Pad 4 on [-2.3,0.25] was successfully imported.
+            Event: Pad 5 on [-2.3,-0.25] was successfully imported.
+            Event: Pad 6 on [-2.3,-0.75] was successfully imported.
+            Event: Pad 7 on [-2.3,-1.25] was successfully imported.
+            Event: Pad 8 on [-2.3,-1.75] was successfully imported.
+            Event: Pad 9 on [-1.75,-2.3] was successfully imported.
+            Event: Pad 10 on [-1.25,-2.3] was successfully imported.
+            Event: Pad 11 on [-0.75,-2.3] was successfully imported.
+            Event: Pad 12 on [-0.25,-2.3] was successfully imported.
+            Event: Pad 13 on [0.25,-2.3] was successfully imported.
+            Event: Pad 14 on [0.75,-2.3] was successfully imported.
+            Event: Pad 15 on [1.25,-2.3] was successfully imported.
+            Event: Pad 16 on [1.75,-2.3] was successfully imported.
+            Event: Pad 17 on [2.3,-1.75] was successfully imported.
+            Event: Pad 18 on [2.3,-1.25] was successfully imported.
+            Event: Pad 19 on [2.3,-0.75] was successfully imported.
+            Event: Pad 20 on [2.3,-0.25] was successfully imported.
+            Event: Pad 21 on [2.3,0.25] was successfully imported.
+            Event: Pad 22 on [2.3,0.75] was successfully imported.
+            Event: Pad 23 on [2.3,1.25] was successfully imported.
+            Event: Pad 24 on [2.3,1.75] was successfully imported.
+            Event: Pad 25 on [1.75,2.3] was successfully imported.
+            Event: Pad 26 on [1.25,2.3] was successfully imported.
+            Event: Pad 27 on [0.75,2.3] was successfully imported.
+            Event: Pad 28 on [0.25,2.3] was successfully imported.
+            Event: Pad 29 on [-0.25,2.3] was successfully imported.
+            Event: Pad 30 on [-0.75,2.3] was successfully imported.
+            Event: Pad 31 on [-1.25,2.3] was successfully imported.
+            Event: Pad 32 on [-1.75,2.3] was successfully imported.
+            Event: Pad 33 on [0,-0] was successfully imported.
+        EndSection
+        Section : Component S** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 2 vertices was not imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Line with 1 vertices was successfully imported.
+            Event: Pad 1 on [-4.1,0] was successfully imported.
+            Event: Pad 2 on [4.1,0] was successfully imported.
+        EndSection
+        Section : Component S** importing.
+            Event: Text 'user %R' was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Line with 2 vertices was successfully imported.
+            Event: Pad 1 on [-2.625,-1.6] was successfully imported.
+            Event: Pad 2 on [2.625,-1.6] was successfully imported.
+            Event: Pad 3 on [2.625,1.6] was successfully imported.
+            Event: Pad 4 on [-2.625,1.6] was successfully imported.
+        EndSection
+    EndSection
